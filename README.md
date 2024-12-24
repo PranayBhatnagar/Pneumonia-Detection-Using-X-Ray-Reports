@@ -60,3 +60,10 @@ Pneumonia is a life-threatening condition, and early detection is key to effecti
    ```bash  
    git clone https://github.com/your-username/pneumonia-detection.git  
    cd pneumonia-detection  
+2. Create a virtual environment and activate it:
+   '''bash
+    python -m venv env  
+    source env/bin/activate  # On Windows: .\env\Scripts\activate  
+3. Install the required dependencies:
+   '''bash
+   pip install -r requirements.txt  
